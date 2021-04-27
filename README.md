@@ -1,2 +1,2 @@
 # sql-stack
-repo for populating sql stack, do it for fun
+repo for saving some sort of sql stack, do it for fun. 
